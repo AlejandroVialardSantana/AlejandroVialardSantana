@@ -9,5 +9,8 @@ I'm a Computer Engineering Student 🎓 at [ULPGC](https://www.ulpgc.es).
 
 ![Alejandro Vialard's GitHub stats](https://github-readme-stats.vercel.app/api/?username=alejandrovialardsantana&count_private=true&theme=tokyonight&showicons=true)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroVialardSantana&langs_count=5&theme=tokyonight)]()
+
+
 # Skills 🚀
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,html,css,javascript,git&theme=dark)](https://skills.thijs.gg)
