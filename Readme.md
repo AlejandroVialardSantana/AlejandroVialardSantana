@@ -1,4 +1,4 @@
-# **Hello everyone, I'm Alejandro Vialard** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# **Hello everyone** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlejandroVialardSantana&countColor=%23eeb338&style=flat" alt="Visitors"/>](https://www.visitorbadge.io/)
 [![LinkdIn](https://img.shields.io/badge/-LinkedIn-eeb338?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-vialard-santana-a5a3b2226/)
@@ -6,7 +6,10 @@
 
 
 # About Me 🧑
-I'm a Computer Engineering Student 🎓 at [ULPGC](https://www.ulpgc.es).
+My name is Alejandro Vialard Santana. I'm a Computer Engineering Student 🎓 at [ULPGC](https://www.ulpgc.es).
+
+- I'm currently learning [JavaScript](https://www.javascript.com) 💛
+- I'm working on some projects 👨‍💻
 
 # Github Stats 📈
 <p align="center">
