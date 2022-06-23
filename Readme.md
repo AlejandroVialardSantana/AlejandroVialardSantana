@@ -1,4 +1,4 @@
-# **Hello everyone** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px">
+# **Hello everyone** 👋
 
 [<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlejandroVialardSantana&countColor=%23eeb338&style=flat" alt="Visitors"/>](https://www.visitorbadge.io/)
 [![LinkdIn](https://img.shields.io/badge/-LinkedIn-eeb338?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-vialard-santana-a5a3b2226/)
