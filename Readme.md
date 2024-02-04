@@ -27,7 +27,7 @@ Tengo conocimientos en una variedad de tecnologías de programación y herramien
   
 - **Frameworks y Bibliotecas:** 
 
-  ![Django](https://skills.thijs.gg/icons?i=django&theme=dark) ![Angular](https://skills.thijs.gg/icons?i=angular&theme=dark)![React](https://skills.thijs.gg/icons?i=react&theme=dark)
+  ![Django](https://skills.thijs.gg/icons?i=django&theme=dark) ![Angular](https://skills.thijs.gg/icons?i=angular&theme=dark) ![React](https://skills.thijs.gg/icons?i=react&theme=dark)
   
 - **Herramientas y Otros:** 
 
