@@ -49,7 +49,6 @@ Tengo conocimientos en una variedad de tecnologías de programación y herramien
 - **Metodologías:** 
   <p>
     <img src="https://img.shields.io/badge/-SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
-    Experiencia en metodologías ágiles.
   </p>
 
 ## Contacto y Redes Sociales 📬
